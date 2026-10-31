@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WaterWise Calculator</string>
+    <string name="title_activity_main">WaterWise Calculator</string>
+    <string name="package_name">com.eslamabubakr.waterwise</string>
+    <string name="custom_url_scheme">com.eslamabubakr.waterwise</string>
+</resources>

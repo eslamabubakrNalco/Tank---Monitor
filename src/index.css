@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-obsidian: #080A0F;
+  --surface-charcoal: #11151F;
+  --gold-champagne: #F3E5AB;
+  --gold-metallic: #D4AF37;
+  --gold-bronze: #B5891C;
+  --status-pass: #10B981;
+  --status-caution: #F59E0B;
+  --status-fail: #EF4444;
+  --status-info: #3B82F6;
+}
+
+body {
+  background-color: #080A0F;
+  color: #F8FAFC;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
