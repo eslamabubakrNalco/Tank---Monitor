@@ -16,6 +16,14 @@ Every push builds an installable Android APK automatically via GitHub Actions:
 To publish a permanent download link, push a tag (e.g. `git tag v2.0.0 && git push origin v2.0.0`)
 and the APK is attached to a GitHub **Release**.
 
+## 🍎 iPhone / any phone: install as PWA
+The app is deployed to GitHub Pages: **https://eslamabubakrnalco.github.io/Tank---Monitor/**
+
+- **iPhone (Safari):** open the link → Share ⬆️ → **Add to Home Screen**.
+- **Android (Chrome):** open the link → ⋮ menu → **Install app**.
+
+Works offline after the first open. Updates automatically on every merge to `main`.
+
 ## Project layout
 | Path | Purpose |
 |---|---|
